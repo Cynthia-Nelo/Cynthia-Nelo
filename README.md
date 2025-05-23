@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Amakeze Cynthia👋  
+### Data Scientist | AI Enthusiast  
 
-<!--
-**Cynthia-Nelo/Cynthia-Nelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on **Machine Learning & NLP**  
+🌱 Learning **LLMs & MLOps**  
+📫 Reach me: [LinkedIn](https://linkedin.com/in/cynthia-nwankwo-83278687)  
+⚡ Fun fact: I love automating tasks with Python!  
 
-Here are some ideas to get you started:
+## 🛠 Skills  
+- Python (Pandas, NumPy, Scikit-learn)  
+- SQL & NoSQL Databases  
+- Machine Learning & Deep Learning  
+- Data Visualization (Matplotlib, Seaborn, Plotly)  
+- Cloud (AWS, GCP)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects  
+
+- 🎵 [XYZ Music Company Analysis](https://github.com/Cynthia-Nelo/XYZ_music_company_project)  
+  Sales trends, genre insights, customer segmentation, and predictive modeling.
