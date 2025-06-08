@@ -10,7 +10,7 @@
 - Python (Pandas, NumPy, Scikit-learn)  
 - SQL & NoSQL Databases  
 - Machine Learning & Deep Learning  
-- Data Visualization (Matplotlib, Seaborn, Plotly)  
+- Data Visualization (Matplotlib, Seaborn, Plotly, Microsoft power BI)  
 - Cloud (AWS, GCP)  
 
 ## 📂 Featured Projects  
